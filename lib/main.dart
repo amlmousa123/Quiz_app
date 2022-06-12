@@ -5,7 +5,7 @@ import 'package:quiz_app/result.dart';
 void main() {
   runApp(MyApp());
 }
-
+//jhgfdd
 class MyApp extends StatefulWidget {
   //const MyApp({Key? key}) : super(key: key);
 
